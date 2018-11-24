@@ -1,0 +1,206 @@
+SourceCompnayName,TargetCompanyName,CommunicationType
+Manx Telecomm,Dade2,Wireless
+Manx Telecomm,Caterham Cars,Wireless
+Manx Telecomm,Liverpool Craft Beer,Wireless
+Manx Telecomm,Galaxy 27,Wireless
+Manx Telecomm,Inmarsat-3 F4,Wireless
+Dade2,Yamal 300K,Wireless
+Dade2,Caterham Cars,Wireless
+Dade2,Scotland Yard,Wireless
+Dade2,Oslo Plaza*,Wireless
+Dade2,British Telecomm,Wireless
+Caterham Cars,Scotland Yard,Both
+Caterham Cars,Liverpool Craft Beer,Both
+Liverpool Craft Beer,Galaxy 27,Wireless
+Liverpool Craft Beer,HLS,Both
+Liverpool Craft Beer,Scotland Yard,Landline
+Liverpool Craft Beer,Bank of England,Landline
+Bank of England,HLS,Landline
+Bank of England,Scotland Yard,Both
+Bank of England,British Airways,Both
+Bank of England,British Telecomm,Wireless
+Scotland Yard,British Telecomm,Wireless
+HLS,British Airways,Both
+HLS,Galaxy 27,Wireless
+HLS,HYLAS-2,Wireless
+Galaxy 27,HYLAS-2,Wireless
+Galaxy-27,Inmarsat-3 F4,Wireless
+Inmarsat-3 F4,HYLAS-2,Wireless
+Inmarsat-3 F4,Group PSA,Wireless
+Inmarsat-3 F4,LVMH,Wireless
+Inmarsat-3 F4,Banco de Sabadell,Wireless
+Inmarsat-3 F4,Banco de Espana,Wireless
+Inmarsat-3 F4,Maroc Telecom,Wireless
+Inmarsat-3 F4,BMCI,Wireless
+BMCI,Maroc Telecom,Wireless
+BMCI,SATPEC,Both
+Maroc Telecom,SATPEC,Wireless
+Maroc Telecom,H3G,Wireless
+Maroc Telecom,Vodaphone,Wireless
+Maroc Telecom,Banco de Sabadell,Wireless
+Banco de Espana,Banco de Sabadell,Both
+Banco de Sabadell,LVMH,Both
+Banco de Sabadell,GIMD,Both
+Banco de Sabadell,Vodaphone,Wireless
+Group PSA,LVMH,Both
+Group PSA,DGSE,Landline
+Group PSA,Paris Hilton*,Both
+Group PSA,HYLAS-2,Wireless
+HYLAS-2,British Airways,Wireless
+HYLAS-2,British Telecomm,Wireless
+HYLAS-2,Telfort,Wireless
+HYLAS-2,Paris Hilton*,Wireless
+Paris Hilton*,Telfort,Both
+Paris Hilton*,DGSE,Landline
+Paris Hilton*,BNP Paribas,Landline
+DGSE,LVMH,Landline
+DGSE,BNP Paribas,Landline
+BNP Paribas,LVMH,Landline
+BNP Paribas,GIMD,Landline
+BNP Paribas,Telfort,Landline
+BNP Paribas,DB,Landline
+BNP Paribas,Siemens,Landline
+GIMD,Astaldi SpA,Both
+GIMD,Vodaphone,Wireless
+GIMD,LVMH,Landline
+Vodaphone,H3G,Wireless
+Vodaphone,Astaldi SpA,Wireless
+Vodaphone,Boscolo Exedra Roma*,Wireless
+H3G,SATPEC,Wireless
+H3G,Boscolo Exedra Roma*,Wireless
+H3G,Telecom Italia,Wireless
+H3G,MEASAT-3,Wireless
+H3G,Mediobanca,Wireless
+SATPEC,MEASAT-3,Wireless
+Astaldi SpA,AMS AG,Landline
+Astaldi SpA,DeLonghi,Landline
+Astaldi SpA,Boscolo Exedra Roma*,Both
+Boscolo Exedra Roma*,DeLonghi,Landline
+Boscolo Exedra Roma*,Mediobanca,Both
+Mediobanca,DeLonghi,Landline
+Mediobanca,Ferrari,Landline
+Mediobanca,Telecom Italia,Both
+British Telecomm,Oslo Plaza*,Wireless
+British Telecomm,SES,Wireless
+British Telecomm,Dansmark NationalBank,Wireless
+British Telecomm,TVSAT-2,Wireless
+British Telecomm,SHAPE,Wireless
+British Telecomm,Telfort,Wireless
+British Telecomm,British Airways,Wireless
+SHAPE,TVSAT-2,Wireless
+SHAPE,Tchibo Mobilfunk,Both
+SHAPE,Telfort,Both
+SHAPE,DB,Landline
+DB,Telfort,Landline
+DB,Tchibo Mobilfunk,Landline
+DB,Siemens,Landline
+Siemens,Tchibo Mobilfunk,Landline
+Siemens,Kreditech,Landline
+Siemens,Thyssen AG,Landline
+Siemens,BAWAG,Landline
+Siemens,AMS AG,Landline
+AMS AG,BAWAG,Landline
+AMS AG,Stroh,Landline
+AMS AG,Palais Coburg*,Landline
+AMS AG,DeLonghi,Landline
+SES,Oslo Plaza*,Wireless
+SES,Dansmark NationalBank,Wireless
+SES,SAAB Group,Wireless
+Oslo Plaza*,Yamal 300K,Wireless
+Oslo Plaza*,SAAB Group,Both
+Oslo Plaza*,HMD Global,Landline
+Oslo Plaza*,Rossiya,Both
+Yamal 300K,Rossiya,Wireless
+Rossiya,HMD Global,Both
+Rossiya,Telia Company AB,Wireless
+Rossiya,Gazprom,Both
+Rossiya,SVR,Landline
+Telia Company AB,HMD Global,Wireless
+Telia Company AB,SAAB Group,Wireless
+Telia Company AB,Gazprom,Wireless
+Telia Company AB,DFS Kopernikus-2,Wireless
+SAAB Group,DFS Kopernikus-2,Wireless
+SAAB Group,Dansmark NationalBank,Both
+SAAB Group,DFS Kopernikus-2,Wireless
+Dansmark Nationalbank,DFS Kopernikus-2,Wireless
+DFS Kopernikus-2,Tchibo Mobilfunk,Wireless
+DFS Kopernikus-2,Kreditech,Wireless
+DFS Kopernikus-2,Gazprom,Wireless
+DFS Kopernikus-2,OHB SE,Wireless
+Gazprom,SVR,Landline
+Gazprom,OHB SE,Both
+Gazprom,Azimut*,Landline
+Azimut*,SVR,Landline
+Azimut*,OHB SE,Landline
+Azimut*,Sukhoi,Landline
+Azimut*,Thyssen AG,Landline
+Azimut*,AVL,Landline
+OHB SE,Thyssen AG,Landline
+Thyssen AG,Kreditech,Landline
+Thyssen AG,AVL,Landline
+Thyssen AG,BAWAG,Landline
+Sukhoi,SVR,Landline
+Sukhoi,Zaliv Shipbuilding,Landline
+Sukhoi,AVL,Landline
+Sukhoi,Conax,Landline
+BAWAG,AVL,Landline
+BAWAG,Stroh,Landline
+Stroh,Uniqa,Landline
+Stroh,Palais Coburg*,Landline
+Stroh,AVL,Landline
+Palais Coburg*,Uniqa,Landline
+Palais Coburg*,Lasta,Landline
+Palais Coburg*,DeLonghi,Both
+Palais Coburg*,Raiffeisen Bank,Both
+Palais Coburg*,Telecom Austria Group,Wireless
+DeLonghi,Telecom Austria Group,Wireless
+DeLonghi,Ferrari,Both
+Ferrai,Telecom Austria Group,Wireless
+Ferrai,MEASAT-3,Wireless
+Ferrai,Telecom Italia,Both
+MEASAT-3,Telecom Italia,Wireless
+MEASAT-3,Telecom Austria Group,Wireless
+MEASAT-3,Raiffeisen Bank,Wireless
+MEASAT-3,Costamare,Wireless
+MEASAT-3,Turkcell,Wireless
+MEASAT-3,Turksat 2A,Wireless
+Zaliv Shipbuilding,Tersan Shipyard,Both
+Zaliv Shipbuilding,Cesky Telecom,Wireless
+Zaliv Shipbuilding,Conax,Both
+Uniqa,AVL,Landline
+Uniqa,Conax,Landline
+Uniqa,Lasta,Landline
+Lasta,Conax,Landline
+Lasta,Balkan,Landline
+Lasta,Costamare,Landline
+Lasta,Raiffeisen Bank,Landline
+Conax,Balkan,Both
+Balkan,Cesky Telecom,Wireless
+Balkan,TCDD,Both
+Balkan,Turkcell,Wireless
+Balkan,Costamare,Both
+Turkcell,Costamare,Wireless
+Turkcell,Turksat 2A,Wireless
+Turkcell,TCDD,Wireless
+Turkcell,Denizbank,Wireless
+Denizbank,Turksat 2A,Wireless
+Denizbank,TCDD,Both
+Denizbank,MIT,Both
+Denizbank,HFSA,Landline
+Denizbank,Tersan Shipyard,Landline
+MIT,Turksat 2A,Wireless
+MIT,Tersan Shipyard,Landline
+Tersan Shipyard,HFSA,Both
+Tersan Shipyard,Cesky Telecom,Wireless
+Cesky Telecom,Conax,Wireless
+Cesky Telecom,TCDD,Wireless
+HFSA,TCDD,Both
+SVR,Zaliv Shipbuilding,Landline
+Raiffiesen Bank,Costamare,Both
+Raiffiesen Bank,Telecom Austria Group,Wireless
+Lasta,Raiffeisen Bank,Landline
+TVSAT-2,Dansmark NationalBank,Wireless
+TVSAT-2,Tchibo Mobilfunk,Wireless
+Dansmark Nationalbank,Tchibo Mobilfunk,Both
+Dansmark Nationalbank,DFS Kopernikus-2,Wireless
+Telia Company AB,HMD Global,Wireless
