@@ -1,76 +1,77 @@
-CompanyName,Country,CompanyType,Target,PointOfEntry
-Manx Telecomm,Telecomm,Telecomm,No,No
-Dade2,Telecomm,Telecomm,No,No
-Yamal 300K,Telecomm,Telecomm,No,No
-Caterham Cars,UK,Automobile,No,No
-Scotland Yard,UK,Government ,No,No
-Liverpool Craft Beer,UK,Spirit,Yes,No
-Bank of England,UK,Bank,Yes,No
-British Telecomm,Telecomm,Telecomm,No,No
-HLS,UK,Contract Research Organisation ,No,No
-British Airways,UK,Airline,No,No
-SES,Telecomm,Telecomm,No,No
-Oslo Plaza*,Other,Hotel,No,Yes
-HMD Global,Other,Telecomm,No,Yes
-Rossiya Bank,Russia,Bank,Yes,No
-TVSAT-2,Telecomm,Telecomm,No,No
-Dansmark Nationalbank,Other,Bank,Yes,No
-SAAB Group,Other,Aerospace ,No,No
-Telia Company AB,Telecomm,Telecomm,No,No
-Gazprom,Russia,Gas,No,No
-SVR,Russia,Intelligence Services,No,No
-Aizmut*,Russia,Hotel,No,Yes
-Glaxay27,Telecomm,Telecomm,No,No
-HYLAS-2,Telecomm,Telecomm,No,No
-SHAPE,Other,Government,No,No
-Tchibo Mobilfunk,Germany,Telecomm,No,No
-DFS Kopernikus-2,Telecomm,Telecomm,No,No
-OHB SE,Germany,Aerospace ,No,No
-Telfort,Other,Telecomm,No,No
-DB,Germany,Bank,Yes,No
-Siemens,Germany,Manufacture,No,Yes
-Kreditech,Germany,Financial Services,No,No
-Thyssen AG,Germany,Steel Production,No,Yes
-Sukhoi,Russia,Manufacture,No,No
-Zaliv Shipbuilding,Russia,Shipping,No,Yes
-VAL,Austria,Pre-Clinical and Clinical Development,No,No
-BAWAG,Austria,Bank,Yes,No
-Paris Hilton*,France,Hotel,No,Yes
-Group PSA,France,Automobile,No,Yes
-Inmarsat-3 F4,Telecomm,Telecomm,No,No
-DGSE,France,Government ,No,No
-BNP Paribas,France,Bank,Yes,No
-AMS AG,Austria,Manufacture,No,No
-Stroh,Austria,Spirit,Yes,No
-Uniqa,Austria,Insurance ,No,No
-Conax,Other,Manufacture,No,No
-Cesky Telecom,Telecomm,Telecomm,No,No
-HFSA,Turkey,Financial Services,No,No
-Tersan Shipyard,Turkey,Shipping,No,No
-LVMH,France,Luxury goods,No,No
-GIMD,France,Group of Companys,No,No
-Astaldi SpA,Italy,Construction,No,No
-DeLonghi,Italy,Manufacture,No,No
-Palais Coburg*,Austria,Hotel,No,Yes
-Lasta,Other,Other,No,No
-Banco de Sabadell,Other,Bank,Yes,No
-Banco de Espana,Other,Bank,Yes,No
-Vodaphone,Telecomm,Telecomm,No,No
-Boscolo Exedra Roma*,Italy,Hotel,No,Yes
-Ferrari,Italy,Automobile,No,No
-Raiffeisen Bank,Other,Bank,Yes,No
-Balkan,Other,Food,No,No
-TCDD,Turkey,Transportation ,No,No
-Denizbank,Turkey,Bank,Yes,No
-MIT,Turkey,Government ,No,No
-Maroc Telecom,Telecomm,Telecomm,No,No
-BMCI,Other,Bank,Yes,No
-SATPEC,Other,Software,No,No
-H3G,Telecomm,Telecomm,No,No
-Medlobanca,Italy,Bank,Yes,No
-Telecom Italia,Italy,Telecomm,No,No
-Telecom Austria Group,Telecomm,Telecomm,No,No
-MEASAT-3,Telecomm,Telecomm,No,No
-Costamare,Other,Shipping ,No,No
-Turkcell,Telecomm,Telecomm,No,No
-Turksat 2A,Telecomm,Telecomm,No,No
+CompanyName,Country,CompanyType,Target,PointOfEntry,,
+AMS AG,Austria,Manufacture,No,No,,
+Astaldi SpA,Italy,Construction,No,No,,
+AVL,Austria,Engineering,No,No,,
+Azimut*,Russia,Hotel,No,Yes,,
+Balkan,Other,Food,No,No,,
+Banco de Espana,Other,Bank,Yes,No,,
+Banco de Sabadell,Other,Bank,Yes,No,,
+Bank of England,UK,Bank,Yes,No,,
+BAWAG,Austria,Bank,Yes,No,,
+BMCI,Other,Bank,Yes,No,,
+BNP Paribas,France,Bank,Yes,No,,
+Boscolo Exedra Roma*,Italy,Hotel,No,Yes,,
+British Airways,UK,Airline,No,No,,
+British Telecomm,Telecomm,Telecomm,No,No,,
+Caterham Cars,UK,Automobile,No,No,,
+Cesky Telecom,Telecomm,Telecomm,No,No,,
+Conax,Other,Manufacture,No,No,,
+Costamare,Other,Shipping ,No,No,,
+Dade2,Telecomm,Telecomm,No,No,,
+Dansmark Nationalbank,Other,Bank,Yes,No,,
+DB,Germany,Bank,Yes,No,,
+DeLonghi,Italy,Manufacture,No,No,,
+Denizbank,Turkey,Bank,Yes,No,,
+DFS Kopernikus-2,Telecomm,Telecomm,No,No,,
+DGSE,France,Government ,No,No,,
+Ferrari,Italy,Automobile,No,No,,
+Galaxy 27,Telecomm,Telecomm,No,No,,
+Gazprom,Russia,Gas,No,No,,
+GIMD,France,Group of Companys,No,No,,
+Group PSA,France,Automobile,No,Yes,,
+H3G,Telecomm,Telecomm,No,No,,
+HFSA,Turkey,Financial Services,No,No,,
+HLS,UK,Contract Research Organisation ,No,No,,
+HMD Global,Other,Telecomm,No,Yes,,
+HYLAS-2,Telecomm,Telecomm,No,No,,
+Inmarsat-3 F4,Telecomm,Telecomm,No,No,,
+Kreditech,Germany,Financial Services,No,No,,
+Lasta,Other,Other,No,No,,
+Liverpool Craft Beer,UK,Spirit,Yes,No,,
+LVMH,France,Luxury goods,No,No,,
+Manx Telecomm,Telecomm,Telecomm,No,No,,
+Maroc Telecom,Telecomm,Telecomm,No,No,,
+MEASAT-3,Telecomm,Telecomm,No,No,,
+Mediobanca,Italy,Bank,Yes,No,,
+MIT,Turkey,Government ,No,No,,
+OHB SE,Germany,Aerospace ,No,No,,
+Oslo Plaza*,Other,Hotel,No,Yes,,
+Palais Coburg*,Austria,Hotel,No,Yes,,
+Paris Hilton*,France,Hotel,No,Yes,,
+Raiffeisen Bank,Other,Bank,Yes,No,,
+Rossiya Bank,Russia,Bank,Yes,No,,
+SAAB Group,Other,Aerospace ,No,No,,
+SATPEC,Other,Software,No,No,,
+Scotland Yard,UK,Government ,No,No,,
+SES,Telecomm,Telecomm,No,No,,
+SHAPE,Other,Government,No,No,,
+Siemens,Germany,Manufacture,No,Yes,,
+Stroh,Austria,Spirit,Yes,No,,
+Sukhoi,Russia,Manufacture,No,No,,
+SVR,Russia,Intelligence Services,No,No,,
+TCDD,Turkey,Transportation ,No,No,,
+Tchibo Mobilfunk,Germany,Telecomm,No,No,,
+Telecom Austria Group,Telecomm,Telecomm,No,No,,
+Telecom Italia,Italy,Telecomm,No,No,,
+Telfort,Other,Telecomm,No,No,,
+Telia Company AB,Telecomm,Telecomm,No,No,,
+Tersan Shipyard,Turkey,Shipping,No,No,,
+Thyssen AG,Germany,Steel Production,No,Yes,,
+Turkcell,Telecomm,Telecomm,No,No,,
+Turksat 2A,Telecomm,Telecomm,No,No,,
+TVSAT-2,Telecomm,Telecomm,No,No,,
+Uniqa,Austria,Insurance ,No,No,,
+VAL,Austria,Pre-Clinical and Clinical Development,No,No,,
+Vodaphone,Telecomm,Telecomm,No,No,,
+Yamal 300K,Telecomm,Telecomm,No,No,,
+Zaliv Shipbuilding,Russia,Shipping,No,Yes,,
